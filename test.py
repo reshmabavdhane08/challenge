@@ -1,3 +1,5 @@
+# find whether the point lies inside or outside the polygon
+
 import numpy as np
 
 
